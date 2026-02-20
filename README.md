@@ -4,7 +4,7 @@
    - Paste the command in your terminal ⬇️
      
   ```bash
-   omarchy-theme-install https://github.com/atif-1402/omarchy-manga-theme.git
+   omarchy-theme-install https://github.com/LazyGhostyx/omarchy-bedrock-theme.git
    ```
   
   OR
@@ -13,7 +13,7 @@
   - Go to Install > Style > Theme and paste the the below git repo link ⬇️
     
    ```bash
-   https://github.com/atif-1402/omarchy-manga-theme.git
+   https://github.com/LazyGhostyx/omarchy-bedrock-theme.git
    ```
      
 - ➡️ Themed Applications
